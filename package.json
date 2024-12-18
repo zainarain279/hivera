@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "hivera-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "color": "^4.2.3",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.2",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.17.0"
+  }
+}
